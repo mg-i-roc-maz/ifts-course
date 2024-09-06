@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Elemento1",
+        "vip": false,
+        "description": "Questa è la descrizione del primo elemento."
+    },
+    {
+        "name": "Elemento2",
+        "vip": true,
+        "description": "Questa è la descrizione del secondo elemento."
+    },
+    {
+        "name": "Elemento3",
+        "vip": false,
+        "description": "Questa è la descrizione del terzo elemento."
+    },
+    {
+        "name": "Elemento4",
+        "vip": false,
+        "description": "Questa è la descrizione del quarto elemento."
+    }
+]

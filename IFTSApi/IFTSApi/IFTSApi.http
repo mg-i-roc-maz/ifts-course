@@ -1,0 +1,6 @@
+@IFTSApi_HostAddress = http://localhost:5056
+
+GET {{IFTSApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
